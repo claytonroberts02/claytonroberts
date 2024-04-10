@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #333;
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/021/599/588/small/abstract-white-and-gray-overlap-circles-background-3d-paper-circle-banner-with-drop-shadows-minimal-simple-design-for-presentation-flyer-brochure-website-book-etc-vector.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    color: black; /* Dark blue color for headings */
+}
+
+.photo-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.photo-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#tableauViz {
+    width: 100%;
+    height: 1200px; /* Adjust the height to make it larger and more readable */
+    margin: 20px auto;
+    display: block;
+}
+
+.anchor {
+    text-align: center;
+    margin-top: 20px;
+}
